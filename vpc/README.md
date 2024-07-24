@@ -15,7 +15,7 @@ This project contains Terraform configurations for setting up a cloud infrastruc
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com:virtuecloud/terraform-blogs.git
-   cd vpc
+   cd terraform-blogs/vpc
 
 2. **Initialize Terraform**:
 
